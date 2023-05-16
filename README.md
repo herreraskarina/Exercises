@@ -1,0 +1,2 @@
+# Exercises
+Repository for exercises
